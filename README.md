@@ -1,4 +1,4 @@
-# Election_Analysis
+,# Election_Analysis
 
 ## Overview of Election Audit
 
@@ -6,4 +6,6 @@ The purpose of the election audit was to first determine which candidate won the
 
 ## Election-Audit Results
 
-* bullet
+* Total Votes Cast: 369,711
+* County voting information:
+  *asf
