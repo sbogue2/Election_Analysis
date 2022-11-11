@@ -7,7 +7,6 @@ The purpose of the election audit was to first determine which candidate won the
 ## Election-Audit Results
 
 * Total Votes Cast: 369,711
-
 * County votes (highest to lowest)
 1) Denver County; 306,055 votes (82.8%)
 2) Jefferson County; 38,855 votes (10.5%)
