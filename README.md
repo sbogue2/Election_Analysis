@@ -19,3 +19,4 @@ The purpose of the election audit was to first determine which candidate won the
 3) Raymon Anthony Doanne; 11,606 votes (3.1%)
 
 ## Election-Audit Summary
+This script can be modified to determine the winner of any election while preventing human error and biases from interfering. Minimal modifications will be required for this script to analyze results of other elections. The code to import the csv file will have to be altered depending on the file structure of the computer running the analysis. The only other necessary modification to the script will be to rename the county variables to make the code more readable and/or to add more code to track other location dependent statistics. 
