@@ -8,4 +8,6 @@ The purpose of the election audit was to first determine which candidate won the
 
 * Total Votes Cast: 369,711
 * County voting information:
-  *l;kajsdf
+    *nestinhg
+    *kjhg
+*jlj
